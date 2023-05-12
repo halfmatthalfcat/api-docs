@@ -1,0 +1,11 @@
+{
+  "type": "string",
+  "description": "The faction you choose determines your headquarters.",
+  "enum": [
+    "COSMIC",
+    "VOID",
+    "GALACTIC",
+    "QUANTUM",
+    "DOMINION"
+  ]
+}

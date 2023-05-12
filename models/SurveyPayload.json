@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "description": "A surveyed deposit of a mineral or resource available for extraction.",
+  "properties": {
+    "survey": {
+      "$ref": "../models/Survey.json"
+    }
+  },
+  "required": [
+    "survey"
+  ]
+}
